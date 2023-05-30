@@ -1,0 +1,23 @@
+
+<!-- Links -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="This is an awesome website">
+		<title> My Website 3 </title>
+	</head>
+	<body> 
+		<a href="https://www.google.com" target="_blank"> Google's Homepage</a>
+
+		<!-- target blank will open in a new tab instead of navigating from our webpage -->
+
+<br/>
+
+<a href="1.html" target="_blank"> Page 1 </a>
+
+<!-- if it is in same directory, it'll open without further specifications -->
+
+	</body>
+</html>

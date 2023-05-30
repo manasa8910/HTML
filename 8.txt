@@ -1,0 +1,43 @@
+
+
+<!-- Lists -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="This is an awesome website">
+		<title> My Website 8</title>
+	</head>
+	<body> 
+		 	
+		<ul>
+			<li><a href="#">Apples</a></li>
+			<li>Oranges</li>
+			<li>Bananas</li>
+		</ul>
+
+		<br/>
+
+		<ol type="A">
+			<li>Oranges</li>
+				<ol type="I">
+					<li>item1</li>
+				</ol>
+			<li>Bananas</li>
+		</ol>
+
+		<br/>
+
+		<dl>
+			<dt>Apples</dt>
+			<dd>-They are red</dd>
+			<dt>Oranges</dt>
+			<dd>-They are orange</dd>
+		</dl>
+		
+		<!-- ul: unordered list, li: list item, dl: description list, dt: descp type, descp of descp
+		if we dont put type, default will be numeric -->
+
+	</body>
+</html>

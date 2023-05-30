@@ -1,0 +1,38 @@
+
+
+<!-- Tables -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="This is an awesome website">
+		<title> My Website 9</title>
+	</head>
+	<body> 
+		 	
+		<table>
+			<caption> <h3>List of numbers</h3></caption>
+			<tr>
+				<th>col1</th>
+				<th>col2</th>
+				<th>col3</th>
+			</tr>
+			<tr>
+				<td colspan="2">one</td>
+				<td>two</td>
+				<td>three</td>
+				<td>three and a half</td>
+			</tr>
+			<tr>
+				<td>one1</td>
+				<td>two2</td>
+				<td>three3</td>
+			</tr>
+		</table>
+
+		<!-- tr: table row, td:table data, th: table header, caption: title,
+		colspan: take more than 1 row for the data -->
+
+	</body>
+</html>

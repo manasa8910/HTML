@@ -1,0 +1,32 @@
+<!-- best practice of using tags -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Website</title>
+	</head>
+	<body>
+
+		<!-- main skeleton : header, main, footer -->
+		
+		<header>
+			<nav>
+			</nav>
+		</header>
+		<main>
+			<article>
+				<section>
+				</section>
+				
+				<section>
+					<aside>
+					</aside>
+				</section>
+			</article>
+		</main>
+		<footer>
+		</footer>
+
+
+	</body>
+</html>

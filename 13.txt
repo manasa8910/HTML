@@ -1,0 +1,32 @@
+
+
+
+<!-- Input and forms -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="This is an awesome website">
+		<title> My Website 11</title>
+	</head>
+	<body> 
+		 	
+		<input type="text" value="Username"/>
+		<input type="password" value="password"/>
+		<input type="submit"/>
+		<input type="date" value="Username"/>
+		<input type="range" value="Username"/>
+		<input type="file" value="Username"/>
+		<input type="checkbox" value="Username"/>
+		<input type="checkbox" value="Username"/>
+		<input name="btn" type="radio" value="Username"/>
+		<input name="btn" type="radio" value="Username"/>
+		<form>
+			<textarea rows="10" cols="30">Enter a paragraph</textarea>
+		</form>
+		<!-- default line "Enter a paragraph"
+		form tag is used to store inputs -->
+
+	</body>
+</html>
